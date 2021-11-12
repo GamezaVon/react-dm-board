@@ -1,0 +1,15 @@
+.search-result-box{
+    width: 100%;
+    padding: 0rem 2rem 0rem 2rem;
+}
+
+.search-result-item{
+        background-color: #E8E7E7;
+        margin: 1rem 0rem 1rem 0rem;
+        padding: 10px 0px 10px 0px;
+        width: 100%;
+}
+
+.search-result-item p {
+    padding-left: 1rem;
+}
